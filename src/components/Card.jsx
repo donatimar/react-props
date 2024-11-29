@@ -25,7 +25,7 @@ function Card({ title, image, content, tags }) {
             <span
               key={tag}
               className={`badge text-white bg-${
-                tagColors[tag] || ""
+                tagColors[tag] || "secondary"
               } d-inline-block mb-2 me-2`}
             >
               {tag.toUpperCase()}
