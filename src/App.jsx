@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="d-flex flex-column min-vh-100">
       <Header />
-      <main className="flex-grow-1 bg-light py-5">
+      <main className="flex-grow-1 bg-light py-3">
         <div className="container">
           <div className="mb-5">
             <h3>Tag utilizzati:</h3>
