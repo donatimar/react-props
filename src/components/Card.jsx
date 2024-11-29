@@ -13,7 +13,7 @@ function Card() {
           maxime sint quia laudantium nesciunt, iste ipsa magni atque ratione
           libero?
         </p>
-        <a href="#" className="btn custom-btn">
+        <a href="#" className="btn btn-warning text-white">
           LEGGI DI PIU'
         </a>
       </div>
